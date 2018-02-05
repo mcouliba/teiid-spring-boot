@@ -20,6 +20,7 @@
 		<dependency>
 			<groupId>org.teiid</groupId>
 			<artifactId>teiid-spring-boot-starter</artifactId>
+			<version>1.0.0</version>
 		</dependency>
         <dependency>
             <groupId>com.h2database</groupId>
